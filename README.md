@@ -8,3 +8,4 @@
 - Read the documentation https://docs.cypress.io/guides/component-testing/react/overview
 - Run `yarn add cypress -D` to install Cypress
 - Open Cypress with `yarn cypress open`
+- Welcome to Cypress! ![Welcome to Cypress](./public/assets/images/00-welcome-to-cypress.png)
